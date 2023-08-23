@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+/*import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -18,6 +18,21 @@ function App() {
           Learn React
         </a>
       </header>
+    </div>
+  );
+}
+
+export default App;
+*/
+// src/App.js
+import React from "react";
+import "./App.css";
+import QuoteGenerator from "./QuoteGenerator";
+
+function App() {
+  return (
+    <div className="App">
+      <QuoteGenerator />
     </div>
   );
 }
