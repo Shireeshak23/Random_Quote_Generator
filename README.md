@@ -1,3 +1,12 @@
+#Random Quote Generator
+
+
+A simple web application that generates random inspirational quotes. The project is built using HTML, CSS, and JavaScript.
+
+#Features
+Displays a random quote each time the page is loaded or the "Generate Quote" button is clicked.
+Quotes are fetched from an array of predefined quotes.
+Responsive design that works well on different screen sizes.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
